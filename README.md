@@ -1,2 +1,2 @@
 # GoGame
-just get a little deeper with go
+just get a little deeper with cpp
